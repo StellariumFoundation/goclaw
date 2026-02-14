@@ -1,3 +1,3 @@
 module github.com/StellariumFoundation/goclaw
 
-go 1.21
+go 1.26.0
